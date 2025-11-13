@@ -1,0 +1,9 @@
+employee_id,weekly_task_count,avg_task_complexity,collaboration_load,after_hours_work,resource_allocation,tenure_in_role,job_role,daily_stress_pulse,mental_fatigue_score,job_satisfaction_rating,burnout_risk
+salman,5,2,8,1,30,0.5,مطور,مسيطر,2.0,5,0
+omar,12,3,15,6,40,2.0,مطور,مضغوط,6.0,3,1
+aziz,8,4,25,10,40,5.0,مدير مشروع,مضغوط,8.5,2,1
+mohammed,3,5,12,2,35,8.0,مهندس أول,مسيطر,1.0,4,0
+ali,9,3,10,8,45,0.8,محلل بيانات,مضغوط,7.0,2,1
+aamer,6,2,5,0,30,3.0,مصمم,مسيطر,3.0,5,0
+saud,10,4,22,7,40,1.5,مطور,مضغوط,7.5,3,1
+Hisham,4,5,18,4,40,6.0,مهندس أول,مسيطر,4.0,4,0
